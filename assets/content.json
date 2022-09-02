@@ -1,0 +1,13 @@
+{
+  "pages": {
+    "contacts": {
+      "title": "Контакты"
+    },
+    "delivery": {
+      "title": "Доставка"
+    },
+    "Promotions": {
+      "title": "Предложения"
+    }
+  }
+}

@@ -68,7 +68,6 @@ export default {
       this.changeLinkStatus(activeLink);
     },
     changeLinkStatus(text) {
-      console.log(text);
       this.links.map((link) =>
         link.text === text ? (link.isActive = true) : (link.isActive = false)
       );
